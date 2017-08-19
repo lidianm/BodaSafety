@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "430664211771",
+    "firebase_url": "https://bodasafety1.firebaseio.com",
+    "project_id": "bodasafety1",
+    "storage_bucket": "bodasafety1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430664211771:android:cf15986bab0394cb",
+        "android_client_info": {
+          "package_name": "fire.sammy.com.bodasafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430664211771-i08l8cbq9m3nrd937thsq11lom7akbs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9r0J-Ki4AwS32QP1b1SjI7KmWDlGi2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
